@@ -1,0 +1,6 @@
+# TESTING / COVERAGE / TEMP
+.coverage
+htmlcov/
+.pytest_cache/
+tmp/
+temp/
