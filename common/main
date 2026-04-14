@@ -1,0 +1,13 @@
+# COMPRESSED FILES
+*.zip
+*.tar
+*.gzip
+
+# OS FILES
+.DS_Store
+Thumbs.db
+
+# VS Code | Visual Studio
+.vscode/
+.idea/
+.vs/
